@@ -1,9 +1,22 @@
 ## PROJETO NEXTJS COM TYPESCRIPT
 
-Esse projeto servirá como um "starter pack" dos meus próximos projetos, nele já deixei configurado o NextJs com Typescript, styled-components, eslint/prettier, babel e toda a estrutura básica de um projeto.
+Base de modelo com NextJS para iniciar novos projetos nessa stack.
 
+## STACK
+
+- Next JS
+- Typescript
+- Styled-components
+
+## CONFIG
+
+- BABEL
+- ESLINT/PRETTIER
 
 ## COMO UTILIZAR
 
-npx create-next-app . -e 
-# next-with-typescript-styled
+dentro da pasta do projeto
+
+```npx create-next-app . -e https://github.com/Uallessonivo/next-with-typescript-styled
+
+```
