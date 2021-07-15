@@ -6,3 +6,4 @@ Esse projeto servirá como um "starter pack" dos meus próximos projetos, nele j
 ## COMO UTILIZAR
 
 npx create-next-app . -e 
+# next-with-typescript-styled
