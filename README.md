@@ -17,6 +17,7 @@ Base de modelo com NextJS para iniciar novos projetos nessa stack.
 
 dentro da pasta do projeto
 
-```npx create-next-app . -e https://github.com/Uallessonivo/next-with-typescript-styled
-
+```bash
+# Use esse comando entro da pasta do seu projeto
+npx create-next-app . -e https://github.com/Uallessonivo/next-with-typescript-styled
 ```
